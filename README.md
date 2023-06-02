@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-This is a mini-project as a Lab project for CS2180 Artificial Intelligence Lab.
+This is an individual mini-project as a Lab project for CS2180 Artificial Intelligence Lab.
 
 The main algorithm is MiniMax algorithm with Alpha-beta Pruning.
 
